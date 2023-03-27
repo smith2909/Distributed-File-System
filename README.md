@@ -1,7 +1,7 @@
 # CMSC-626-PCS-DFS
 
 # Architecture of Distributed File System
-1. This setup consists of 3 Storage Servers namely(ServerA, ServerB, and ServerC)
+1. This setup consists of 3 Storage Servers namely(Server A, Server B, and Server C)
 2. It also consists of a Master Server that processes all requests.
 3. It serves multiple instances of clients.
 
