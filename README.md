@@ -18,5 +18,5 @@
 2. To run ServerA, open the command prompt in the file directory containing ServerA.py and execute 'python ServerA.py'
 3. Similarly, run 'python ServerB.py' and 'python ServerC.py' in their respective command prompts.
 4. To run the master, open the command prompt in the file directory containing Master.py and execute 'python Master.py'
-5. Once these files are running, Client.py can be run by executing 'python Client.py'
+5. Once these files are running, Client.py can be run by executing 'python Client.py '
 6. After the client is connected run the test_watch.py which will enable the watch.
